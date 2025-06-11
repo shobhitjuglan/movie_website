@@ -1,0 +1,1 @@
+when you want to make a fast high performance api which might have lot of users in the future, we use fastAPI instead of Django or Flask
